@@ -23,7 +23,7 @@ When we first start the project, a greeting message is displayed for 4 seconds. 
 - The score and level are displayed on the LCD, till the game ends.
 - When the game ends, a sad face appears on the led matrix and you can see the final score displayed on LCD.
 
-## 
+## Challenges
 The most annoying thing when developing on arduino is memory management. This made me think how to store the matrix and the blocks without using much memory. For example, in the first phase I was trying to store every component and its rotations in a matrix, making the project to use too much global memory. Only after that I realised that I have to change something and now the rotations are made dinamically, no more need to store them.
 
 ## Used components
