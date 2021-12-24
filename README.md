@@ -40,6 +40,6 @@ The most annoying thing when developing on arduino is memory management. This ma
 ```
 
 Picture of the setup:<br>
-<img src="https://github.com/Coakaze/Matrix-Game/blob/main/firstPhase.jpg" width="300">
+<img src="https://github.com/Coakaze/Tetris-ArduinoGame/blob/main/third%20phase.jpg" width="500">
 
 Link to the video: https://www.youtube.com/watch?v=Ge5HGaVsP8c
