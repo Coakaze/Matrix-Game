@@ -41,3 +41,5 @@ The most annoying thing when developing on arduino is memory management. This ma
 
 Picture of the setup:<br>
 <img src="https://github.com/Coakaze/Matrix-Game/blob/main/firstPhase.jpg" width="300">
+
+Link to the video: https://www.youtube.com/watch?v=Ge5HGaVsP8c
